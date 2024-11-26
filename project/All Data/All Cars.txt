@@ -1,0 +1,190 @@
+Car details: 
+Car Id: 1
+Brand: Ferrari
+Model: X
+Color: Red
+Car Type: sports
+Fuel Type: diesel
+Year: 2022
+Price: 10000.0
+Available: true
+Dealer Info: Dealer details: 
+Dealer Id: 101
+Name: Abrar
+Address: Barishal
+E-mail: coolboiabrar@gmail.com
+Phone No.: 017232323**
+Number of Cars: 3
+
+
+Car details: 
+Car Id: 2
+Brand: Ferrari
+Model: Y
+Color: Blue
+Car Type: sports
+Fuel Type: diesel
+Year: 2023
+Price: 9500.0
+Available: true
+Dealer Info: Dealer details: 
+Dealer Id: 101
+Name: Abrar
+Address: Barishal
+E-mail: coolboiabrar@gmail.com
+Phone No.: 017232323**
+Number of Cars: 3
+
+
+Car details: 
+Car Id: 3
+Brand: Honda 
+Model: Z
+Color: Black
+Car Type: family_car
+Fuel Type: octane
+Year: 2021
+Price: 2500.0
+Available: true
+Dealer Info: Dealer details: 
+Dealer Id: 102
+Name: Redwan
+Address: gazipur
+E-mail: Homieboiredwan@gmail.com
+Phone No.: 01342432323**
+Number of Cars: 2
+
+
+Car details: 
+Car Id: 4
+Brand: Tesla
+Model: X
+Color: Black
+Car Type: coupe
+Fuel Type: electricity
+Year: 2022
+Price: 5000.0
+Available: true
+Dealer Info: Dealer details: 
+Dealer Id: 102
+Name: Redwan
+Address: gazipur
+E-mail: Homieboiredwan@gmail.com
+Phone No.: 01342432323**
+Number of Cars: 2
+
+
+Car details: 
+Car Id: 5
+Brand: Toyota
+Model: Z
+Color: blue
+Car Type: sports
+Fuel Type: diesel
+Year: 2023
+Price: 9500.0
+Available: true
+Dealer Info: Dealer details: 
+Dealer Id: 103
+Name: shahmul
+Address: kishorganj
+E-mail: chololateboishahmul@gmail.com
+Phone No.: 013422323**
+Number of Cars: 3
+
+
+Car details: 
+Car Id: 6
+Brand: McLaren 
+Model: Y
+Color: blue
+Car Type: sports
+Fuel Type: diesel
+Year: 2023
+Price: 9500.0
+Available: true
+Dealer Info: Dealer details: 
+Dealer Id: 103
+Name: shahmul
+Address: kishorganj
+E-mail: chololateboishahmul@gmail.com
+Phone No.: 013422323**
+Number of Cars: 3
+
+
+Car details: 
+Car Id: 7
+Brand: BMW
+Model: Y
+Color: White
+Car Type: Antique
+Fuel Type: petrol 
+Year: 2023
+Price: 6000.0
+Available: true
+Dealer Info: Dealer details: 
+Dealer Id: 104
+Name: Ekra
+Address: polligram
+E-mail: onlyimo@gmail.com
+Phone No.: 013232323**
+Number of Cars: 2
+
+
+Car details: 
+Car Id: 8
+Brand: BMW
+Model: Z
+Color: White
+Car Type: Limousine
+Fuel Type: petrol 
+Year: 2023
+Price: 9500.0
+Available: true
+Dealer Info: Dealer details: 
+Dealer Id: 104
+Name: Ekra
+Address: polligram
+E-mail: onlyimo@gmail.com
+Phone No.: 013232323**
+Number of Cars: 2
+
+
+Car details: 
+Car Id: 9
+Brand: Honda
+Model: X
+Color: blue
+Car Type: sports
+Fuel Type: Octane
+Year: 2023
+Price: 9500.0
+Available: true
+Dealer Info: Dealer details: 
+Dealer Id: 101
+Name: Abrar
+Address: Barishal
+E-mail: coolboiabrar@gmail.com
+Phone No.: 017232323**
+Number of Cars: 3
+
+
+Car details: 
+Car Id: 10
+Brand: Range_Rover
+Model: Y
+Color: Grey
+Car Type: luxury
+Fuel Type: diesel
+Year: 2023
+Price: 8500.0
+Available: true
+Dealer Info: Dealer details: 
+Dealer Id: 103
+Name: shahmul
+Address: kishorganj
+E-mail: chololateboishahmul@gmail.com
+Phone No.: 013422323**
+Number of Cars: 3
+
+

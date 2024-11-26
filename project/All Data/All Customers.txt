@@ -1,0 +1,11 @@
+Customer Details: 
+Customer Id: 11
+Name: Muqaddisa
+Address: Narayanganj
+E-mail: 2022-3-60-317@std.ewubd.edu
+Phone No.: 01919426415
+Has Made Order: false
+Number of Order: 0
+Car List: []
+
+
